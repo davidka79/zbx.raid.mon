@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	functions ".."
+	functions "github.com/davidka79/zbx.raid.mon/functions"
 )
 
 // GetControllersIDs - get number of controllers in the system

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	functions ".."
+	functions "github.com/davidka79/zbx.raid.mon/functions"
 )
 
 // GetControllersIDs - get number of controllers in the system
